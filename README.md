@@ -1,0 +1,1 @@
+Modified version of armadillo to be used as a git submodule.
